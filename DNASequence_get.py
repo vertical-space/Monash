@@ -10,4 +10,4 @@ while valid != True:
     except:
         print "sequence not valid"
 
-print '\n', x.reverse_complement()
+print '\n\n', x.reverse_complement()

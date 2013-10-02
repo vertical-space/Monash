@@ -74,3 +74,4 @@ assert x.gc_content() == 0.6
 assert x.reverse_complement() == 'AGCCT'
 assert y.reverse_complement() == 'AGCCU'
 
+
